@@ -1,0 +1,87 @@
+{
+    "codeSubmissions":[
+        {
+            "submissionID": 1,
+            "name":"Discrete Mathematics",
+            "shortDesc":"An algorithm showing Discrete Mathematics",
+            "longDesc":"This following algorithm gives us a unique insight into discrete mathematics",
+            "views": 12,
+            "datePosted":"29/10/2021",
+            "isPublic":false,
+            "posterUserID":132134,
+            "lines":[
+                "In this paper we prove an algorithm",
+                "To prove it we use the following formula",
+                "x = (x + 2)^2",
+                "This simplifies to x = x^2 + 2x + 4"
+            ],
+            "comments":[
+                {
+                    "1": "This needs a better opening",
+                    "commentPosterUserID": 12316,
+                    "commentDate": "31/10/2021"
+                },
+                {
+                    "4": "The simplification is incorrect",
+                    "commentPosterUserID": 12316,
+                    "commentDate": "31/10/2021"
+                }
+            ],
+            "overallComment":{
+                "comment":"Very bad paper, focus more on getting the maths correct",
+                "commentDate": "31/10/2021",
+                "commentPosterUserID": 12316
+            }
+        },
+        {
+            "submissionID":2,
+            "name":"Complex Mathematics",
+            "shortDesc":"An algorithm showing Complex Mathematics",
+            "longDesc":"This following algorithm gives us a unique insight into Complex mathematics",
+            "views": 12,
+            "datePosted":"29/10/2021",
+            "isPublic":false,
+            "posterUserID":132134,
+            "lines":[
+                "In this paper we prove an algorithm",
+                "To prove it we use the following formula",
+                "x = (x + 2)^2",
+                "This simplifies to x = x^2 + 2x + 4"
+            ],
+            "comments":[
+                {
+                    "1": "This needs a better opening",
+                    "commentPosterUserID": 12316,
+                    "commentDate": "31/10/2021"
+                },
+                {
+                    "4": "The simplification is incorrect",
+                    "commentPosterUserID": 12316,
+                    "commentDate": "31/10/2021"
+                }
+            ],
+            "overallComment":{
+                "comment":"Very bad paper, focus more on getting the maths correct",
+                "commentDate": "31/10/2021",
+                "commentPosterUserID": 12316
+            }
+        }
+    ],
+    "users":[
+        {
+            "email":"jb23@st-andrews.ac.uk",
+            "userId":12316,
+            "firstName":"Joe",
+            "lastName":"Blogs",
+            "password":"?"
+        },
+        {
+            "email":"jj25@st-andrews.ac.uk",
+            "userId":1234,
+            "firstName":"John",
+            "lastName":"Johnson",
+            "password":"?"
+        }
+    ]
+    
+}
